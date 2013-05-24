@@ -3,7 +3,6 @@ cereal
 sugar
 lager
 cider
-whiskey
 butter
 jam
 pizza
