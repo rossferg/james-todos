@@ -8,3 +8,6 @@ butter
 jam
 pizza
 apples
+flowers
+flour
+sweet
