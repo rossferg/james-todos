@@ -3,7 +3,6 @@ cereal
 sugar
 lager
 cider
-beer
 whiskey
 butter
 jam
