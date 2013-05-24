@@ -1,0 +1,3 @@
+decorate lounge
+paint wall in kitchen
+carpet in hall 
