@@ -4,7 +4,10 @@ sugar
 lager
 cider
 whiskey
+<<<<<<< HEAD
 butter
 jam
 pizza
 apples
+=======
+>>>>>>> parent of 737a484... edited shopping list
