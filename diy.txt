@@ -6,3 +6,5 @@ flowers in garden
 dig a big hole and stare into it
 plant trees
 make hole in wall
+fill big hole in garden with bricks from wall
+fill big hole in wall with earth from garden
