@@ -3,6 +3,8 @@ lager
 cider
 whiskey
 butter
+bread
+honey
 jam
 pizza
 apples
