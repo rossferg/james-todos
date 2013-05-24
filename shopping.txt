@@ -5,3 +5,6 @@ lager
 cider
 beer
 whiskey
+butter
+jam
+pizza
