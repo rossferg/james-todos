@@ -1,0 +1,7 @@
+milk
+cereal
+sugar
+lager
+cider
+beer
+whiskey
